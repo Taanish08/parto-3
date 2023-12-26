@@ -1,0 +1,22 @@
+body {
+    background-color: #adfc03;
+}
+.heading {
+    width: 80%;
+    font-size: 30px;
+}
+.options {
+    color: orangered;
+    font-size: 16px;
+}
+
+.imgcapt {
+    width: 50%;
+    font-size: 18px;
+}
+
+#camera, #result {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
